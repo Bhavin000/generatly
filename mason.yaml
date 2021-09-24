@@ -1,0 +1,19 @@
+bricks:
+  starter:
+    path: bricks/starter
+  page:
+    path: bricks/page
+  screen:
+    path: bricks/screen
+  btn:
+    path: bricks/btn
+  txt:
+    path: bricks/txt
+  rw:
+    path: bricks/rw
+  col:
+    path: bricks/col
+  dlg:
+    path: bricks/dlg
+  snack:
+    path: bricks/snack

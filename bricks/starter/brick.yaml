@@ -1,0 +1,4 @@
+name: starter
+description: starter generatly template.
+vars:
+  - app_name

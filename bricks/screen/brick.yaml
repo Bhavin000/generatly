@@ -1,0 +1,5 @@
+name: screen
+description: screen widget stl/stf.
+vars:
+  - stl
+  - screen_name
