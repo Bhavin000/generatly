@@ -1,5 +1,5 @@
-name: generatly
-description: Unique code generator.
+name: {{app_name}}
+description: {{app_name}} created by generatly.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
@@ -13,11 +13,13 @@ dependencies:
   mason: ^0.0.1-dev.47
   form_builder: ^1.0.1
   flutter_bloc: ^7.3.0
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
+  bloc_test: ^8.2.0
 
 flutter:
   uses-material-design: true

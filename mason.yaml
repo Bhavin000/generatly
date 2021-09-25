@@ -17,3 +17,5 @@ bricks:
     path: bricks/dlg
   snack:
     path: bricks/snack
+  temp_route:
+    path: bricks/temp_route
