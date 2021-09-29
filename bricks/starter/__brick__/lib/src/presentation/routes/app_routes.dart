@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:generatly/src/presentation/pages/home_page.dart';
-import 'package:generatly/src/presentation/routes/route_definations.dart';
-import 'package:generatly/src/presentation/splash.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/presentation/pages/home_page.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/presentation/routes/route_definations.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/presentation/splash.dart';
 
 class AppRoutes {
   Route<dynamic> onGeneratedRoutes(RouteSettings settings) {

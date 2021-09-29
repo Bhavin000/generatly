@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:generatly/src/logic/cubits/theme_cubit/theme_cubit.dart';
-import 'package:generatly/src/presentation/routes/app_routes.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/logic/cubits/theme_cubit/theme_cubit.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/presentation/routes/app_routes.dart';
 
 class App extends StatelessWidget {
   final AppRoutes appRoutes;

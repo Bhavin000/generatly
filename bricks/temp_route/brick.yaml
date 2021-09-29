@@ -1,4 +1,0 @@
-name: temp_route
-description: temp route to add.
-vars:
-  - page_name

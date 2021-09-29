@@ -1,0 +1,4 @@
+name: stf
+description: stateful widget.
+vars:
+  - name

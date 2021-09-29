@@ -1,1 +1,0 @@
-import 'package:generatly/src/presentation/pages/{{#snakeCase}}{{page_name}}{{/snakeCase}}.dart';

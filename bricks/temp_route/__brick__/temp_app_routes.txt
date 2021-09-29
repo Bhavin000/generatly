@@ -1,4 +1,0 @@
-      case Routes.{{#camelCase}}{{page_name}}{{/camelCase}}:
-        return MaterialPageRoute(
-          builder: (context) => const {{#pascalCase}}{{page_name}}{{/pascalCase}}(),
-        );

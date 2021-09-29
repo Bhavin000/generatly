@@ -19,3 +19,27 @@ bricks:
     path: bricks/snack
   temp_route:
     path: bricks/temp_route
+  stl:
+    path: bricks/stl
+  stf:
+    path: bricks/stf
+  test:
+    path: bricks/test
+  cubit:
+    path: bricks/cubit
+  bloc:
+    path: bricks/bloc
+  stl_appbar:
+    path: bricks/stl_appbar
+  stf_appbar:
+    path: bricks/stf_appbar
+  stl_body:
+    path: bricks/stl_body
+  stf_body:
+    path: bricks/stf_body
+  bottom_navigator:
+    path: bricks/bottom_navigator
+  top_navigator:
+    path: bricks/top_navigator
+  bnr:
+    path: bricks/bnr

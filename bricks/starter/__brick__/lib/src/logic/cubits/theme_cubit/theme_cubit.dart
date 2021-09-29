@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:generatly/src/constants/enums.dart';
-import 'package:generatly/src/presentation/themes/app_theme.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/constants/enums.dart';
+import 'package:{{#snakeCase}}{{app_name}}{{/snakeCase}}/src/presentation/themes/app_theme.dart';
 
 part 'theme_state.dart';
 

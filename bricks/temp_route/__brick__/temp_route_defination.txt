@@ -1,1 +1,0 @@
-  static const String {{#camelCase}}{{page_name}}{{/camelCase}} = '/{{#camelCase}}{{page_name}}{{/camelCase}}';

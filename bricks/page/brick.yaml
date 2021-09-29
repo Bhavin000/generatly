@@ -1,5 +1,0 @@
-name: page
-description: page widgets stl/stf.
-vars:
-  - stl
-  - page_name
